@@ -1,6 +1,6 @@
 # OnTime
-High fidelity prototype of OnTime, an app designed to provide users with a list of nearby medical centers with wait and commute times, created using Figma
+A Figma mockup of a mobile application that connects users to a medical centre with the shortest commute + wait time.
 
-Won 1st place in IBM Design Competition 
+Won 1st place, IBM Design Competition, 2020.
 
-Figma Link: https://www.figma.com/proto/emWIfJQTsqAGe8Kj0EeBDZ/OnTime?node-id=23%3A26&scaling=scale-down 
+[Figma Link](https://www.figma.com/proto/emWIfJQTsqAGe8Kj0EeBDZ/OnTime?node-id=23%3A26&scaling=scale-down)
